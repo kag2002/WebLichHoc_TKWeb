@@ -22,7 +22,7 @@ th,
 td {
   border: 1px solid black;
   table-layout: fixed;
-  color: rgb(29, 30, 119); 
+  color: rgb(29, 30, 119);
   text-align: center;
   padding: 2px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -44,11 +44,11 @@ table {
 }
 
 .gioithieutruong {
-  background-color:rgb(221, 92, 41);
+  background-color: rgb(221, 92, 41);
   color: cornsilk;
   text-align: center;
   padding: 5px 10px;
-  margin:10px 40px;
+  margin: 10px 40px;
   border-top-left-radius: 30px;
   border-top-right-radius: 40px;
 }
@@ -69,14 +69,14 @@ table {
 .sidemenu ul li {
   list-style: none;
   margin: 3vh 0;
-  padding: 1.9vh 15px ;
+  padding: 1.9vh 15px;
   background-color: palegoldenrod;
 }
 
 .sidemenu ul li:hover {
   list-style: none;
   margin: 25px 0;
-  padding: 15px;
+  padding: 15px 0;
   background-color: rgb(253, 242, 122);
 }
 
@@ -92,10 +92,8 @@ table {
   overflow: auto;
 }
 
-.dangkylich{
+.dangkylich {
   margin-left: 30px;
   margin-top: 35vh;
   font-size: 20px;
 }
-
-
